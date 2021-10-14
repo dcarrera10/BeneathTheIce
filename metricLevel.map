@@ -2033,7 +2033,7 @@
 // entity 41
 {
 "classname" "info_player_start"
-"origin" "912 0 40"
+"origin" "1264 0 40"
 "angle" "165"
 }
 // entity 42
@@ -2046,4 +2046,10 @@
 {
 "classname" "info_player_deathmatch"
 "origin" "-256 -272 40"
+}
+// entity 44
+{
+"classname" "info_player_deathmatch"
+"origin" "912 0 40"
+"angle" "180"
 }
